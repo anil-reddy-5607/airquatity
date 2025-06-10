@@ -1,0 +1,11 @@
+🧰 Components Required:
+Arduino UNO (or compatible board)
+
+MQ135 (Air Quality Sensor – for NH3, NOx, alcohol, benzene, smoke, CO2)
+(or MQ2/MQ7 depending on availability)
+
+OLED display (optional, for real-time display)
+
+Buzzer or LED (for alert system – optional)
+
+Breadboard and jumper wires
